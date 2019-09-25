@@ -8,3 +8,4 @@ C:\Users\Kay\source\repos\KaysStore\KaysStore\obj\Debug\KaysStore.csproj.Generat
 C:\Users\Kay\source\repos\KaysStore\KaysStore\obj\Debug\KaysStore.csproj.CoreCompileInputs.cache
 C:\Users\Kay\source\repos\KaysStore\KaysStore\obj\Debug\KaysStore.exe
 C:\Users\Kay\source\repos\KaysStore\KaysStore\obj\Debug\KaysStore.pdb
+C:\Users\Kay\source\repos\KaysStore\KaysStore\obj\Debug\KaysStore.frmUserDashboard.resources
